@@ -20,7 +20,7 @@ A simple, interactive **Tic-Tac-Toe** game built with **HTML**, **CSS**, and **J
 
 _ **The game will automatically detect a win or draw.**
 
-= **Use the "New Game" button to start a fresh game.**
+- **Use the "New Game" button to start a fresh game.**
 
 - **Click "Reset Game" to clear the board without starting a new session.**
 
