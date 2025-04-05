@@ -18,7 +18,7 @@ A simple, interactive **Tic-Tac-Toe** game built with **HTML**, **CSS**, and **J
 
 - **Click on any empty box to place your mark (X or O).**
 
-_ **The game will automatically detect a win or draw.**
+- **The game will automatically detect a win or draw.**
 
 - **Use the "New Game" button to start a fresh game.**
 
